@@ -4,13 +4,13 @@ Econologia
 
 2. Objetivo do Produto
 
-Promover o descarte correto e sustentável de resíduos nas áreas urbanas.
+  Promover o descarte correto e sustentável de resíduos nas áreas urbanas.
 
- Educar a população sobre a separação de resíduos (recicláveis, orgânicos e especiais).
+  Educar a população sobre a separação de resíduos (recicláveis, orgânicos e especiais).
 
- Facilitar o encaminhamento de materiais para pontos de coleta adequados.
+  Facilitar o encaminhamento de materiais para pontos de coleta adequados.
 
-  Incentivar práticas sustentáveis por meio de recompensas.
+   Incentivar práticas sustentáveis por meio de recompensas.
   
 
 3. Principais Funcionalidades
