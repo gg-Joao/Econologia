@@ -35,6 +35,13 @@ O objetivo desse sistema é oferecer uma solução de software que ajude os cida
 
 ## 🧠 Modelo Conceitual
 
+O modelo conceitual representa as classes de análise do sistema, com seus principais
+atributos e relacionamentos.
+
+* https://github.com/gg-Joao/Econologia/blob/main/imagens/modelo-conceitual.png
+
+As descrições das classes estão disponíveis no arquivo modelo-conceitual.md
+
 ## 🛠️ Tecnologias Utilizadas
 
 * Documentação escrita em Markdown
