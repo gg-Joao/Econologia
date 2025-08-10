@@ -33,6 +33,18 @@ O objetivo desse sistema é oferecer uma solução de software que ajude os cida
 
 ## 📚 Casos de Uso
 
+Os principais casos de uso identificados são:
+
+   Realizar cadastro de pontos de coleta
+
+   Consultar informações de resíduos e coletas
+
+   Emitir relatório de volumes descartados e recompensas resgatadas
+
+   Para mais detalhes, acesse o arquivo casos-de-uso.md
+
+ * https://github.com/gg-Joao/Econologia/blob/main/imagens/diagrama-casos-uso.png
+
 ## 🧠 Modelo Conceitual
 
 O modelo conceitual representa as classes de análise do sistema, com seus principais
