@@ -66,5 +66,5 @@
 - Usuário com pontos acumulados.  
 
 ### **Pós-condições**  
-- Recompensa resgatada e pontos deduzidos.  
+- Recompensa resgatada e pontos reduzidos.  
 
