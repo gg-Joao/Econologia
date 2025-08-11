@@ -1,6 +1,6 @@
 # Casos de Uso Principais do Sistema Econologia
 
-## **1. Localizar Pontos de Coleta Próximos**  
+## **1. Localizar Pontos**  
 ### **Atores Envolvidos**  
 - Usuário (morador urbano)  
 - Sistema de geolocalização  
@@ -24,7 +24,7 @@
 
 
 
-## **2. Agendar Coleta Domiciliar**  
+## **2. Agendar Coleta **  
 ### **Atores Envolvidos**  
 - Usuário  
 - Cooperativa de reciclagem (parceira)  
@@ -47,7 +47,7 @@
 - Coleta agendada e registrada no sistema.  
 
 
-## **3. Resgatar Recompensas por Reciclagem**  
+## **3. Resgatar Recompensas**  
 ### **Atores Envolvidos**  
 - Usuário  
 - Sistema de recompensas (parcerias com comércios locais)  
