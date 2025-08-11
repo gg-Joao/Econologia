@@ -17,7 +17,7 @@
 - **Nenhum ponto próximo:** Sistema sugere coleta domiciliar ou centros distantes.  
 
 ### **Pré-condições**  
-- Aplicativo instalado e usuário logado.  
+- Usuário logado.  
 
 ### **Pós-condições**  
 - Usuário obtém informações para descarte correto.  
