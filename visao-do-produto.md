@@ -31,7 +31,7 @@
 
 
 ## **5. Restrições e Premissas**  
-🌐 **Acesso via navegador e dispositivos móveis**  
+🌐 **Acesso via navegador**  
 📶 **Requer conexão com a internet**  
 🔒 **Mecanismos de segurança e autenticação obrigatórios**  
 🖥️ **Interface simples e acessível**  
