@@ -43,7 +43,7 @@ Os principais casos de uso identificados são:
 
    Para mais detalhes, acesse o arquivo casos-de-uso.md
 
- * https://github.com/gg-Joao/Econologia/blob/main/imagens/diagrama-casos-uso.png
+ * https://github.com/gg-Joao/Econologia/blob/main/imagens/diagrama-casos-de-uso.png
 
 ## 🧠 Modelo Conceitual
 
