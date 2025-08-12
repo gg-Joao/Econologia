@@ -24,7 +24,7 @@
 
 
 
-## **2. Agendar Coleta **  
+## **2. Agendar Coleta**  
 ### **Atores Envolvidos**  
 - Usuário  
 - Cooperativa de reciclagem (parceira)  
@@ -47,7 +47,7 @@
 - Coleta agendada e registrada no sistema.  
 
 
-## **3. Resgatar Recompensas**  
+## **3. Resgatar Recompensa**  
 ### **Atores Envolvidos**  
 - Usuário  
 - Sistema de recompensas (parcerias com comércios locais)  
